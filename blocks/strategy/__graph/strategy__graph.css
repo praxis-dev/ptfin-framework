@@ -1,0 +1,6 @@
+.strategy__graph {
+  position: absolute;
+  z-index: 2;
+  top: -78px;
+  right: -10px;
+}

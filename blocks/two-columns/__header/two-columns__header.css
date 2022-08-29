@@ -1,0 +1,15 @@
+.two-columns__header {
+  font-family: "Rubik", "Helvetica Neue", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #ffffff;
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+  border-left: 1px solid white;
+  padding-left: 11px;
+  text-align: center;
+}

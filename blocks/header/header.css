@@ -1,0 +1,9 @@
+.header {
+  background-color: #0e2773;
+  margin: 0 auto;
+  align-items: center;
+  display: block;
+  width: 100%;
+  position: relative;
+  z-index: 2;
+}

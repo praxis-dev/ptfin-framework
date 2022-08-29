@@ -1,0 +1,13 @@
+.table {
+  background-image: url(../../images/table-background.png);
+  display: flex;
+  flex-direction: column;
+  background-color: #0e2773;
+  max-width: 287px;
+  margin: -80px auto 0;
+  border-radius: 10px;
+  padding-bottom: 5px;
+  position: relative;
+  z-index: 2;
+  border: 1px solid #000;
+}
